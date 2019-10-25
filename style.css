@@ -47,7 +47,7 @@ a {
   padding: 10px 15px;
   display: inline-block;
   border-radius: 5px;
-  left: 50%;
+  left: 44%;
   background: #17bebb;
   color: #ffffff;
   transform: translate(-25%);
@@ -59,10 +59,15 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   font-weight: 300;
 }
+.button {
+	background:white;
+	margin-top:-2.5%;
+	width:600px;
+}
 .prokrutka {
    margin-left: -37px;
    width: 600px;
-   height: 249px;
+   height: 366px;
    background: #fff;
    overflow-y: scroll;
 }
